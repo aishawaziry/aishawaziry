@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I’m a recent graduate from the Faculty of Engineering, Systems and Biomedical Engineering Department, seeking a position as a Data Scientist or Data Analyst. <br> - I’m currently expanding my skills to enhance my competitiveness in the job market and secure a position. <br> - I’m eager to contribute to projects, collaborate with others, and participate in competitive challenges to enhance my expertise.
+- I’m a recent graduate from the Faculty of Engineering, Systems and Biomedical Engineering Department, seeking a position as a Data Scientist or Data Analyst. <br>- I’m currently expanding my skills to enhance my competitiveness in the job market and secure a position. <br>- I’m eager to contribute to projects, collaborate with others, and participate in competitive challenges to enhance my expertise.
 
 
 ## 🌐 Socials:
